@@ -1,2 +1,2 @@
 # rn-world
-Just another repository
+Hello here I like react native and kotlin
